@@ -1,5 +1,3 @@
-![Banner]
-
 <h1 align="center">I'm Bright Martins</h1>
 <h3 align="center">A humble Software Engineer open to learning new things, passionate and ready to help you bring your software ideas to life.</h3>
 
