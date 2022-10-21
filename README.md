@@ -10,7 +10,6 @@
 - 💬 Ask me about Ethical Hacking
 
 - 📫 Email me; Brightblvd@gmail.com
-- 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
