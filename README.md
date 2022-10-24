@@ -1,8 +1,6 @@
 <h1 align="center">Bright Martins</h1>
 <h3 align="center">Still Exploring, passionate and ready to help you bring your software ideas to life.</h3>
 
-- Still Exploring Programs
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
