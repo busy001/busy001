@@ -1,15 +1,7 @@
-<h1 align="center">I'm Bright Martins</h1>
+<h1 align="center">Bright Martins</h1>
 <h3 align="center">Still Exploring, passionate and ready to help you bring your software ideas to life.</h3>
 
-- Still Exploring Python
-
-- All of my projects are available HERE.
-
-- I love to Learn.
-
-- 💬 Ask me about Ethical Hacking
-
-- 📫 Email me; Brightblvd@gmail.com
+- Still Exploring Programs
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
